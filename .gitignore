@@ -1,0 +1,5 @@
+.env
+_pycache__
+.venv
+Learny2.xcf
+summary_builder2.py
